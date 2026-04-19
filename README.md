@@ -9,15 +9,19 @@ A premium, interactive 3D physics sandbox built for GSoc 2026. This application 
 
 ---
 
-## 🎬 Visual Demonstrations
 
-GitHub README rendering is inconsistent for inline `.mov` playback, so use the links below:
 
-- ▶️ **Part 1 Demo (Pendulum):** [View pendulum demonstration video](assets/pendulum.mov)
+<video src="assets/pendulum.mp4" width="100%" controls autoplay loop muted></video>
+
+
 > *Watch part 1 of the high-fidelity interaction demo.*
 
 ### Advanced Physics Scenarios
-- ▶️ **Part 2 Demo (Ramp + Advanced Scenarios):** [View ramp and advanced scenarios demonstration video](assets/ramp.mov)
+
+
+<video src="assets/ramp.mp4" width="100%" controls autoplay loop muted></video>
+
+
 > *Watch part 2 showcasing torque, elastic collisions, and ramp kinematics.*
 
 *(Note: Videos are located in the `/assets` folder of this repository)*
